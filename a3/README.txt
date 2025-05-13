@@ -1,3 +1,10 @@
+####################################################################################################
+
+Dataset approach : https://huggingface.co/datasets/Hoseob17/data/tree/main
+
+####################################################################################################
+
+
 Welcome to Assignment 3!
 
 We'll be using PyTorch for this assignment. If you're not familiar with PyTorch, or if you would like to review some of the fundamentals of PyTorch, the PyTorch review session is posted on Canvas under Course Videos.  
